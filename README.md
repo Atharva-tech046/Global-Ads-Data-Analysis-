@@ -1,4 +1,4 @@
-# 📊 Programmatic Ad-Tech Yield Engine
+# 📊 Global Ads Data Analysis 
 
 ## 🎯 Objective
 Built an executive-grade Power BI dashboard to analyze global digital marketing performance, simulating the real-time reporting environment of a programmatic ad-network. The goal was to track campaign efficiency and identify high-yield advertising segments across multiple platforms (Google Ads, TikTok Ads, Meta Ads).
